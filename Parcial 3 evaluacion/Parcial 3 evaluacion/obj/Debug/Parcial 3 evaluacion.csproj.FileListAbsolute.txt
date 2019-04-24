@@ -1,0 +1,14 @@
+C:\Users\Lab3\Desktop\p3\Parcial 3 evaluacion\Parcial 3 evaluacion\bin\Debug\Parcial 3 evaluacion.exe.config
+C:\Users\Lab3\Desktop\p3\Parcial 3 evaluacion\Parcial 3 evaluacion\bin\Debug\Parcial 3 evaluacion.exe
+C:\Users\Lab3\Desktop\p3\Parcial 3 evaluacion\Parcial 3 evaluacion\bin\Debug\Parcial 3 evaluacion.pdb
+C:\Users\Lab3\Desktop\p3\Parcial 3 evaluacion\Parcial 3 evaluacion\obj\Debug\Parcial 3 evaluacion.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\p3\Parcial 3 evaluacion\Parcial 3 evaluacion\obj\Debug\Parcial_3_evaluacion.Properties.Resources.resources
+C:\Users\Lab3\Desktop\p3\Parcial 3 evaluacion\Parcial 3 evaluacion\obj\Debug\Parcial 3 evaluacion.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\p3\Parcial 3 evaluacion\Parcial 3 evaluacion\obj\Debug\Parcial 3 evaluacion.exe
+C:\Users\Lab3\Desktop\p3\Parcial 3 evaluacion\Parcial 3 evaluacion\obj\Debug\Parcial 3 evaluacion.pdb
+C:\Users\Lab3\Desktop\p3\Parcial 3 evaluacion\Parcial 3 evaluacion\obj\Debug\Parcial_3_evaluacion.pgb1.resources
+C:\Users\Lab3\Desktop\p3\Parcial 3 evaluacion\Parcial 3 evaluacion\obj\Debug\Parcial_3_evaluacion.MDIParent1.resources
+C:\Users\Lab3\Desktop\p3\Parcial 3 evaluacion\Parcial 3 evaluacion\obj\Debug\Parcial_3_evaluacion.v1.resources
+C:\Users\Lab3\Desktop\p3\Parcial 3 evaluacion\Parcial 3 evaluacion\obj\Debug\Parcial_3_evaluacion.v2.resources
+C:\Users\Lab3\Desktop\p3\Parcial 3 evaluacion\Parcial 3 evaluacion\bin\Debug\Bclass.dll
+C:\Users\Lab3\Desktop\p3\Parcial 3 evaluacion\Parcial 3 evaluacion\bin\Debug\Bclass.pdb

@@ -1,0 +1,4 @@
+C:\Users\Lab3\Desktop\p3\Parcial 3 evaluacion\Bclass\bin\Debug\Bclass.dll
+C:\Users\Lab3\Desktop\p3\Parcial 3 evaluacion\Bclass\bin\Debug\Bclass.pdb
+C:\Users\Lab3\Desktop\p3\Parcial 3 evaluacion\Bclass\obj\Debug\Bclass.dll
+C:\Users\Lab3\Desktop\p3\Parcial 3 evaluacion\Bclass\obj\Debug\Bclass.pdb
